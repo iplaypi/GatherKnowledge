@@ -16,21 +16,21 @@
 # 优秀的博客
 
 
-1、爬虫工具：
+1、卤蛋实验室：https://www.cnblogs.com/web-scraper 
 
-2、阮一峰的博客：
+2、阮一峰的博客：http://www.ruanyifeng.com/home.html 
 
-3、廖雪峰的 Python 教程：
+3、廖雪峰的 Python 教程：https://www.liaoxuefeng.com 
 
-4、虾丸派的博客：
+4、虾丸派的博客：https://www.playpi.org 
 
 
 # 开源项目
 
 
-1、Redis：
+1、Redis：https://github.com/antirez/redis 
 
-2、Elaticsearch
+2、Elaticsearch：https://github.com/elastic/elasticsearch 
 
 3、
 
