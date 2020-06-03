@@ -25,14 +25,22 @@
 4、虾丸派的博客：https://www.playpi.org 
 
 
-# 开源项目
+# 开源项目、框架
 
 
 1、Redis：https://github.com/antirez/redis 
 
 2、Elaticsearch：https://github.com/elastic/elasticsearch 
 
-3、
+3、Python：https://www.python.org 
+
+4、Jupyter：https://jupyter.org 
+
+5、Spark：https://spark.apache.org 
+
+6、Hbase：https://hbase.apache.org 
+
+7、https://hadoop.apache.org 
 
 
 # 优秀的工具网站
